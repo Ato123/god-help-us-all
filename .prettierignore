@@ -1,0 +1,6 @@
+node_modules
+**/node_modules
+**/lib
+**/package.json
+!/package.json
+god_help_us_all_ext

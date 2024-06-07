@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.3.1
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: aalvarez67@gatech.edu
+author_name: Alberto Alvarez
+has_binder: false
+has_settings: false
+kind: frontend
+labextension_name: god-help-us-all-ext
+project_short_description: A JupyterLab extension. God help us all.
+python_name: god_help_us_all_ext
+repository: https://github.com/Ato123/god-help-us-all
+test: false
+
